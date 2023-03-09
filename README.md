@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @N0amLevi
-- 👀 I’m interested in ...
+- 👀 I’m interested in Cyber security 
 - 🌱 I’m currently learning **Java**
 <!---- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me Noamlevi@duck.com
